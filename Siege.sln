@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7E86B036-C23F-9A7D-F08B-FF9BAEAF98AD}") = "Siege", "Assembly-CSharp-firstpass.csproj", "{A3E46517-A04C-14F9-5FC4-2FA5956DAB72}"
+EndProject
+Project("{7E86B036-C23F-9A7D-F08B-FF9BAEAF98AD}") = "Siege", "Assembly-CSharp.csproj", "{064366DC-863C-A450-FBDE-AC843D6C43BA}"
+EndProject
+Project("{7E86B036-C23F-9A7D-F08B-FF9BAEAF98AD}") = "Siege", "Assembly-CSharp-Editor-firstpass.csproj", "{A960B5C1-3A67-649E-956D-B8B9822CE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E46517-A04C-14F9-5FC4-2FA5956DAB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E46517-A04C-14F9-5FC4-2FA5956DAB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E46517-A04C-14F9-5FC4-2FA5956DAB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E46517-A04C-14F9-5FC4-2FA5956DAB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064366DC-863C-A450-FBDE-AC843D6C43BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064366DC-863C-A450-FBDE-AC843D6C43BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064366DC-863C-A450-FBDE-AC843D6C43BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064366DC-863C-A450-FBDE-AC843D6C43BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A960B5C1-3A67-649E-956D-B8B9822CE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A960B5C1-3A67-649E-956D-B8B9822CE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A960B5C1-3A67-649E-956D-B8B9822CE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A960B5C1-3A67-649E-956D-B8B9822CE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
